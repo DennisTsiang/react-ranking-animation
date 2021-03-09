@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-ranking-animation.svg)](https://www.npmjs.com/package/react-ranking-animation) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Example
+
+![Alt Text](https://thumbs.gfycat.com/AdorableComplexJavalina-size_restricted.gif)
+
 ## Install
 
 ```bash
