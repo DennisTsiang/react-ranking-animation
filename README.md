@@ -6,7 +6,7 @@
 
 ## Example
 
-![Alt Text](https://i.imgur.com/venevhu.gif)
+![Example app](https://i.imgur.com/MYOTpA8.gif)
 
 ## Install
 
