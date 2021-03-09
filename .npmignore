@@ -1,0 +1,10 @@
+src
+.vscode
+example
+rollup.*
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+stats.html

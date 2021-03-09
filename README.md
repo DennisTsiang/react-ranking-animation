@@ -15,12 +15,21 @@ npm install --save react-ranking-animation
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-ranking-animation'
+import Leaderboard from 'react-ranking-animation'
 import 'react-ranking-animation/dist/index.css'
 
 class Example extends Component {
+  constructor(props) {
+    super(props);
+    this.contestants = [
+      {name: "John", score: 100},
+      {name: "Susie", score: 100},
+      {name: "Adam", score: 100},
+    ];
+  }
+
   render() {
-    return <MyComponent />
+    return <Leaderboard contestants={this.contestants} />
   }
 }
 ```
