@@ -6,7 +6,7 @@
 
 ## Example
 
-![Alt Text](https://thumbs.gfycat.com/AdorableComplexJavalina-size_restricted.gif)
+![Alt Text](https://i.imgur.com/venevhu.gif)
 
 ## Install
 
